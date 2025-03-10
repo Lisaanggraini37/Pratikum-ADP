@@ -1,5 +1,5 @@
-# Lisa
+# Lisa Anggraini
 
-nama: Lisa Anggraini
-nim: 2410432037
-shift: 1
+Nama: Lisa Anggraini
+Nim: 2410432037
+Shift: 1
